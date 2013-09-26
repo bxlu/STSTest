@@ -1,0 +1,6 @@
+
+
+Service Namespace: legendtech-sb 
+
+https://legendtech-sb.accesscontrol.windows.net/v2/mgmt/web
+
